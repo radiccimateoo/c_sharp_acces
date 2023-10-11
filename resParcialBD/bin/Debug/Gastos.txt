@@ -1,0 +1,2 @@
+1,1000,Movilidad,1200
+2,2000,Alquileres,2000

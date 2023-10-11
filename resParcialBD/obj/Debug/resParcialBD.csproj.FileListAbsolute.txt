@@ -1,0 +1,12 @@
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\bin\Debug\resParcialBD.exe.config
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\bin\Debug\resParcialBD.exe
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\bin\Debug\resParcialBD.pdb
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.csproj.AssemblyReference.cache
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.Form1.resources
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.Properties.Resources.resources
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.csproj.GenerateResource.cache
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.exe
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.pdb
+C:\Users\Portatil\source\repos\resParcialBD\resParcialBD\obj\Debug\resParcialBD.Consultas.resources
